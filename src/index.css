@@ -107,6 +107,9 @@ input {
   color: black;
 }
 
+.button{
+  background-color: blueviolet;
+}
 
 @media (prefers-color-scheme: light) {
   :root {
